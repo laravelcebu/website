@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { Link } from 'react-router';
-import { MenuIcon, Reactiflux } from '../assets/logos';
+import { MenuIcon, LaravelCebu } from '../assets/logos';
 
 export const Header = styled.header`
   display: flex;
@@ -33,9 +33,11 @@ export const Navigation = styled.nav`
 
 export const Logo = styled(Link)`
   display: inline-block;
-  width: 59px;
-  height: 52px;
-  background: url(${Reactiflux});
+  width: 69px;
+  height: 80px;
+  background: url(${LaravelCebu});
+  background-size: 69px 80px;
+  background-repeat: no-repeat;
   text-indent: -9999px;
   z-index: 3;
 `;

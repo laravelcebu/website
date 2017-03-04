@@ -25,7 +25,7 @@ import {
   IconLink,
   SocialLinks
 } from '../utils/components'
-import { Slack, Twitter, Github } from '../assets/logos.js'
+import { Slack, Facebook, Github } from '../assets/logos.js'
 
 export default class Template extends React.Component {
   constructor(props) {
@@ -97,7 +97,7 @@ export default class Template extends React.Component {
               to={prefixLink('/')}
               onClick={closeMenu}
             >
-              Reactiflux
+              LaravelCebu
             </Logo>
             <Toggle onClick={this.toggle('menu')} active={menu} />
             <Navigation role="navigation" style={{top: menu ? 0 : '-100vh'}}>
@@ -166,17 +166,17 @@ export default class Template extends React.Component {
               target="_blank"
             />
             <IconLink
-              to="https://discordapp.com/invite/0ZcbPKXt5bYZVCkR"
+              to="https://laravel-cebu.slack.com/"
               tittle="Laravel Cebu Slack"
               src={Slack}
               alt="Slack"
               target="_blank"
             />
             <IconLink
-              to="https://twitter.com/reactiflux"
-              title="Laravel Cebu Twitter"
-              src={Twitter}
-              alt="Twitter"
+              to="https://www.facebook.com/laravelcebu/"
+              title="Laravel Cebu Facebook"
+              src={Facebook}
+              alt="Facebook"
               target="_blank"
             />
           </SocialLinks>
