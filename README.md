@@ -1,10 +1,22 @@
-# Reactiflux.com
-Finally Reactiflux has a proper website! The admins/mods and would like to thank [@zachgibson](http://zachgibsondesign.com/) for the amazing design/unique iconography and [@huvik](https://github.com/Huvik) for the countless hours spent developing this site in between his exams at school. Also, a shout out to [@kyleamathews](https://github.com/kyleamathews) and all the contributors to [Gatsby.js](https://github.com/gatsbyjs/gatsby); the wonderful React.js static site generator we used for this site. Thank you to [@acemarke](https://github.com/markerikson) for taking the time to start a well thought out learning section with his link mastery and [@vcarl](https://github.com/vcarl) for transcribing almost all of the Q&A's to date. Lastly, thank you to [Netlify.com](http://www.netlify.com) for the free account and running such a great hosting service that makes deployment simple.
+# LaravelCebu.Org
+
+Finally! This is the community's website. It represents and embodies the goals and efforts of the awesome people behind the community. From our event hosts, sponsors and all, thank you so much.
 
 ## Getting started
-### Installation 
+### Installation
 
 1. Install gatsby with npm or yarn: `npm install -g gatsby` or `yarn global add gatsby`
-2. Clone github repo: `git clone https://github.com/reactiflux/reactiflux.com`
+2. Clone github repo: `git clone https://github.com/laravelcebu/website`
 3. Install dependecies with npm or yarn: `npm install` or `yarn install`
 4. Run gatsby develop mode: `gatsby develop`
+
+## Credits
+
+- [Reactiflux](http://www.reactiflux.com) - Base website we've adopted for our own community.
+- [Netlify.com](http://www.netlify.com) - For providing us hosting and more. You guys really rock! \m/
+
+## Suggestions and Contributions
+
+1. File an issue to open any suggestions you may have for the website.
+2. Got something to improve? Fork and create pull request. We'll make sure to include you in our awesome contributors list
+
