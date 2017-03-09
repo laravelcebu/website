@@ -27,7 +27,7 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 * Speakers: Bertrand Kintanar, Dorell James Galang, Harlequin Doyon
 * Saturday Jan 28th
 * 10AM - onwards
-* Transcript: [Laravel Workflow And More](../transcripts/jordan-walke/)
+* Transcript: [Laravel Workflow And More](../transcripts/laravel-workflow-and-more/)
 
 ## ~~May 2016~~
 ### [Code Artisan and Refactoring](https://www.meetup.com/Laravel-Cebu/events/230920566/)
@@ -36,7 +36,7 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 * Speakers: Dorell James Galang, Harlequin Doyon
 * Saturday May 14th
 * 9AM - onwards
-* Transcript: [Code Artisan and Refactoring](../transcripts/jordan-walke/)
+* Transcript: [Code Artisan and Refactoring](../transcripts/code-artisan-and-refactoring/)
 
 ## ~~January 2016~~
 ### [Digging Deeper into Laravel](https://www.meetup.com/Laravel-Cebu/events/228171503/)
@@ -45,6 +45,6 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 * Speakers: Arnel Basiliote, Bertrand Kintanar, Harlequin Doyon
 * Thursday Jan 28th
 * 6PM - onwards
-* Transcript: [Digging Deeper into Laravel](../transcripts/jordan-walke/)
+* Transcript: [Digging Deeper into Laravel](../transcripts/digging-deeper-into-laravel/)
 
 
