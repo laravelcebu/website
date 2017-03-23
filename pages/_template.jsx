@@ -117,10 +117,10 @@ export default class Template extends React.Component {
               </NavigationLink>
               <NavigationLink
                 to={prefixLink('/transcripts/')}
-                title="Blog"
+                title="Transcripts"
                 onClick={closeMenu}
               >
-                Blog
+                Transcripts
               </NavigationLink>
             </Navigation>
           </Header>
