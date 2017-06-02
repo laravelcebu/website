@@ -26,7 +26,7 @@ export default class Index extends React.Component {
           Come let's talk about tech related to Laravel & PHP, ask for help or anything under the sun! 
         </Text>
         <Buttons>
-          <Button primary href="https://laravel-cebu.slack.com/" target="_blank" title="Reactiflux Discord">Join Us</Button>
+          <Button primary href="https://goo.gl/GSc8Qg" target="_blank" title="Reactiflux Discord">Join Us</Button>
           <Button to={prefixLink('/schedule/')} title="Q&A Schedule">Meetup Schedule</Button>
         </Buttons>
       </FrontPage>
