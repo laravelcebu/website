@@ -5,7 +5,12 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 
 ## Upcoming Meetups
 
-## May 2017
+## TBD
+
+----------
+## Past Meetups
+
+## ~~May 2017~~
 ### [Intoduction to Test-Driven Development with Laravel](https://www.meetup.com/Laravel-Cebu/events/238128935/)
 
 * Topic: Intoduction to Test-Driven Development with Laravel
@@ -13,9 +18,6 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 * Saturday, June 3rd
 * 10AM - 4PM
 * Codigu Technologies, Inc.
-
-----------
-## Past Meetups
 
 ## ~~April 2017~~
 ### [Broadcast Events Realtime with Laravel](https://www.meetup.com/Laravel-Cebu/events/238128635/)
