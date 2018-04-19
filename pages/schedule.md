@@ -14,7 +14,6 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 * 730PM - 930PM
 * iiOffice
 
-## April 2018
 ### [Catching Up With Laravel 5.1 to 5.6 (Part 2)](https://www.meetup.com/Laravel-Cebu/events/249636496/)
 
 * Topic: Catching Up With Laravel 5.1 to 5.6 (Part 2)
