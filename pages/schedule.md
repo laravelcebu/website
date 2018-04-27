@@ -5,15 +5,6 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 
 ## Upcoming Meetups
 
-## April 2018
-### [Catching Up With Laravel 5.1 to 5.6 (Part 1)](https://www.meetup.com/Laravel-Cebu/events/248861684/)
-
-* Topic: Catching Up With Laravel 5.1 to 5.6 (Part 1)
-* Speakers: Dorell James Galang, Harlequin Doyon
-* Thursday, April 26
-* 730PM - 930PM
-* iiOffice
-
 ### [Catching Up With Laravel 5.1 to 5.6 (Part 2)](https://www.meetup.com/Laravel-Cebu/events/249636496/)
 
 * Topic: Catching Up With Laravel 5.1 to 5.6 (Part 2)
@@ -24,6 +15,15 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 
 ----------
 ## Past Meetups
+
+## ~~April 2018~~
+### [Catching Up With Laravel 5.1 to 5.6 (Part 1)](https://www.meetup.com/Laravel-Cebu/events/248861684/)
+
+* Topic: Catching Up With Laravel 5.1 to 5.6 (Part 1)
+* Speakers: Dorell James Galang, Harlequin Doyon
+* Thursday, April 26
+* 730PM - 930PM
+* iiOffice
 
 ## ~~May 2017~~
 ### [Intoduction to Test-Driven Development with Laravel](https://www.meetup.com/Laravel-Cebu/events/238128935/)
