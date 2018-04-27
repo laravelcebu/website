@@ -1,17 +1,17 @@
-import React from 'react'
-import { Container } from 'react-responsive-grid'
-import { Link } from 'react-router'
-import { prefixLink } from 'gatsby-helpers'
-import Headroom from 'react-headroom'
-import '../css/markdown-styles'
-import '../css/styles'
+import React from "react";
+import { Container } from "react-responsive-grid";
+import { Link } from "react-router";
+import { prefixLink } from "gatsby-helpers";
+import Headroom from "react-headroom";
+import "../css/markdown-styles";
+import "../css/styles";
 
 // Add our typefaces.
-import 'typeface-poppins'
-import 'typeface-work-sans'
-import 'typeface-space-mono'
+import "typeface-poppins";
+import "typeface-work-sans";
+import "typeface-space-mono";
 
-import { rhythm } from '../utils/typography'
+import { rhythm } from "../utils/typography";
 import {
   Header,
   Navigation,
@@ -24,103 +24,99 @@ import {
   Credits,
   IconLink,
   SocialLinks
-} from '../utils/components'
-import { Slack, Facebook, Github } from '../assets/logos.js'
+} from "../utils/components";
+import { Slack, Facebook, Github, Meetup } from "../assets/logos.js";
 
 export default class Template extends React.Component {
   constructor(props) {
-    super(props)
-    const undef = typeof window !== 'undefined'
+    super(props);
+    const undef = typeof window !== "undefined";
     this.state = {
       menu: false,
-      transcript: undef ? window.innerWidth < 768 ? false : true : false,
+      transcript: undef ? (window.innerWidth < 768 ? false : true) : false,
       toc: true,
       width: undef ? window.innerWidth : null
-    }
+    };
   }
 
   componentDidMount() {
-      window.addEventListener("resize", this.handleResize);
+    window.addEventListener("resize", this.handleResize);
   }
 
   componentWillUnmount() {
-      window.removeEventListener("resize", this.handleResize);
+    window.removeEventListener("resize", this.handleResize);
   }
 
   handleResize = () => {
     if (this.onMobile()) {
-      const { transcript, toc } = this.state
+      const { transcript, toc } = this.state;
       if (!transcript || !toc) {
         this.setState({
           transcript: true,
           toc: true
-        })
+        });
       }
     }
-  }
+  };
 
-  onMobile = () => window.innerWidth <= 768
+  onMobile = () => window.innerWidth <= 768;
 
-
-  toggle = (item) => () => {
-    this.setState((prevState) => ({
+  toggle = item => () => {
+    this.setState(prevState => ({
       [item]: !prevState[item]
-    }))
-  }
+    }));
+  };
 
-  close = (item) => () => {
+  close = item => () => {
     if (this.onMobile()) {
       this.setState({
         [item]: false
-      })
+      });
     }
-  }
+  };
 
-  render () {
-    const { menu, transcript, toc } = this.state
-    const closeMenu = this.close('menu')
+  render() {
+    const { menu, transcript, toc } = this.state;
+    const closeMenu = this.close("menu");
 
-    const children = React.Children.map(
-      this.props.children,
-      (child) =>
-        React.cloneElement(
-          child,
-          { transcript, toc, toggle: this.toggle, close: this.close }
-        )
-    )
+    const children = React.Children.map(this.props.children, child =>
+      React.cloneElement(child, {
+        transcript,
+        toc,
+        toggle: this.toggle,
+        close: this.close
+      })
+    );
 
     return (
-      <div style={{position: menu ? 'fixed' : 'inherit'}}>
+      <div style={{ position: menu ? "fixed" : "inherit" }}>
         <Headroom disableInlineStyles>
           <Header>
-            <Logo
-              to={prefixLink('/')}
-              onClick={closeMenu}
-            >
+            <Logo to={prefixLink("/")} onClick={closeMenu}>
               LaravelCebu
             </Logo>
-            <Toggle onClick={this.toggle('menu')} active={menu} />
-            <Navigation role="navigation" style={{top: menu ? 0 : '-100vh'}}>
+            <Toggle onClick={this.toggle("menu")} active={menu} />
+            <Navigation role="navigation" style={{ top: menu ? 0 : "-100vh" }}>
               <NavigationLink
-                to={prefixLink('/schedule/')}
+                to={prefixLink("/schedule/")}
                 title="Meetup Schedule"
                 onClick={closeMenu}
               >
                 Meetup Schedule
               </NavigationLink>
               <NavigationLink
-                to={prefixLink('/learning/')}
+                to={prefixLink("/learning/")}
                 title="Learning"
                 onClick={closeMenu}
               >
                 Learning
               </NavigationLink>
               <NavigationLink
-                to={prefixLink('/transcripts/')}
+                to="https://www.facebook.com/groups/laravelcebujobs/"
                 title="Transcripts"
-                onClick={closeMenu}
+                target="_blank"
               >
-                Transcripts
+                Jobs
               </NavigationLink>
             </Navigation>
           </Header>
@@ -128,30 +124,50 @@ export default class Template extends React.Component {
         <Container
           style={{
             maxWidth: 1192,
-            padding: `0 ${rhythm(3/4)} ${rhythm(1)} ${rhythm(3/4)}`,
-            marginBottom: 70,
+            padding: `0 ${rhythm(3 / 4)} ${rhythm(1)} ${rhythm(3 / 4)}`,
+            marginBottom: 70
           }}
         >
-          { children }
+          {children}
         </Container>
         <Footer>
           <div>
-            <Copyright>© 2017 Laravel Cebu</Copyright>
+            <Copyright>© 2018 Laravel Cebu</Copyright>
             <Credits>
-              {'Forked design from '}
-              <StyledLink target="_blank" href="https://www.reactiflux.com/" title="Reactiflux">
+              {"Forked design from "}
+              <StyledLink
+                target="_blank"
+                href="https://www.reactiflux.com/"
+                title="Reactiflux"
+                rel="nofollow"
+              >
                 Reactiflux
               </StyledLink>
-              {'. Coded in '}
-              <StyledLink target="_blank" href="https://www.sublimetext.com/" title="Sublime Text">
+              {". Coded in "}
+              <StyledLink
+                target="_blank"
+                href="https://www.sublimetext.com/"
+                title="Sublime Text"
+                rel="nofollow"
+              >
                 Sublime Text
               </StyledLink>
-              {'. Built using '}
-              <StyledLink target="_blank" href="https://github.com/gatsbyjs/gatsby" title="Gatsby">
+              {". Built using "}
+              <StyledLink
+                target="_blank"
+                href="https://github.com/gatsbyjs/gatsby"
+                title="Gatsby"
+                rel="nofollow"
+              >
                 Gatsby.js
               </StyledLink>
-              {'. Hosted on '}
-              <StyledLink target="_blank" href="https://www.netlify.com/" title="Netlify">
+              {". Hosted on "}
+              <StyledLink
+                target="_blank"
+                href="https://www.netlify.com/"
+                title="Netlify"
+                rel="nofollow"
+              >
                 Netlify
               </StyledLink>
               .
@@ -174,7 +190,7 @@ export default class Template extends React.Component {
             />
             <IconLink
               to="https://www.facebook.com/laravelcebu/"
-              title="Laravel Cebu Facebook"
+              title="Laravel Cebu Facebook Page"
               src={Facebook}
               alt="Facebook"
               target="_blank"
@@ -182,6 +198,6 @@ export default class Template extends React.Component {
           </SocialLinks>
         </Footer>
       </div>
-    )
+    );
   }
 }
