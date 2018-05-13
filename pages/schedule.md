@@ -5,14 +5,28 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 
 ## Upcoming Meetups
 
-## May 2018
-### Laravel Code Camp in partnership with DevCon
-
 ## June 2018
-### TBD
+### TDD Continued
+
+* Topic: TDD
+* Speakers: TBD
+* Partners: Codex
+* Date: TBD
+* Time: TBD
+* Location: TBD
 
 ----------
 ## Past Meetups
+
+## ~~May 2018~~
+### [Laravel Codecamp](https://devcon.ph/events/laravel-code-camp-cebu-professionals)
+
+* Topic: Learning Basic Laravel From Scratch
+* Speakers: Harlequin Doyon
+* Partners: DevCon Cebu
+* Saturday, May 12
+* 8AM - 5PM
+* Amihan Global Technologies
 
 ## ~~April 2018~~
 ### [Catching Up With Laravel 5.1 to 5.6 (Part 2)](https://www.meetup.com/Laravel-Cebu/events/249636496/)
