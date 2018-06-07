@@ -6,14 +6,15 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 ## Upcoming Meetups
 
 ## June 2018
-### TDD Continued
+### Test-Driven Development Codecamp
 
-* Topic: TDD
-* Speakers: TBD
+* Topic: Introduction to TDD Lecture, TDD Workshop 
+* Speakers: Jeremiah Caballero, Harlequin Doyon
 * Partners: Codex
-* Date: TBD
-* Time: TBD
-* Location: TBD
+* Sponsors: VENUE: The Company, MAJOR: Jellyfish Education Philippines
+* Saturday, June 16
+* 8AM - 5PM
+* The Company Cebu
 
 ----------
 ## Past Meetups
