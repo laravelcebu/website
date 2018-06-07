@@ -6,7 +6,7 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 ## Upcoming Meetups
 
 ## June 2018
-### Test-Driven Development Codecamp
+### [Test-Driven Development Codecamp](https://www.meetup.com/Laravel-Cebu/events/250739315/)
 
 * Topic: Introduction to TDD Lecture, TDD Workshop 
 * Speakers: Jeremiah Caballero, Harlequin Doyon
