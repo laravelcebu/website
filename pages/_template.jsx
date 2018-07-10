@@ -130,6 +130,7 @@ export default class Template extends React.Component {
         >
           {children}
         </Container>
+        <div class="fb-customerchat" page_id="1221595687860839"></div>
         <Footer>
           <div>
             <Copyright>© 2018 Laravel Cebu</Copyright>
