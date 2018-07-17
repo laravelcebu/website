@@ -5,19 +5,30 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 
 ## Upcoming Meetups
 
-## June 2018
-### [Test-Driven Development Codecamp](https://www.meetup.com/Laravel-Cebu/events/250739315/)
+## July 2018
+### [Test-Driven Development Codecamp Continued](https://www.meetup.com/Laravel-Cebu/events/251512968/)
 
-* Topic: Introduction to TDD Lecture, TDD Workshop 
-* Speakers: Jeremiah Caballero, Harlequin Doyon
-* Partners: Codex
-* Sponsors: VENUE: The Company, MAJOR: Jellyfish Education Philippines
-* Saturday, June 16
+* Topic: Summary About TDD, Review of the activity we have done (Ticketbeast), Limiting ticket sales, Coding Challenge
+* Speakers: Jeremiah Caballero, Roden Artuyo
+* Partners: CodEx
+* Sponsors: VENUE: Coding Avenue, MAJOR: Arcanys, Jellyfish Education Philippines
+* Saturday, July 28
 * 8AM - 5PM
-* The Company Cebu
+* Coding Avenue
 
 ----------
 ## Past Meetups
+
+## ~~June 2018~~
+### [Test-Driven Development Codecamp](https://www.meetup.com/Laravel-Cebu/events/250739315/)
+
+* Topic: Introduction to TDD Lecture, TDD Workshop 
+* Speakers: Jeremiah Caballero, Roden Artuyo, Harlequin Doyon
+* Partners: CodEx
+* Sponsors: VENUE: The Company, MAJOR: Arcanys, Jellyfish Education Philippines
+* Saturday, June 16
+* 8AM - 5PM
+* The Company Cebu
 
 ## ~~May 2018~~
 ### [Laravel Codecamp](https://devcon.ph/events/laravel-code-camp-cebu-professionals)
