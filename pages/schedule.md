@@ -16,6 +16,9 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 * 1PM - 5PM
 * LegalMatch Philippines
 
+----------
+## Past Meetups
+
 ## ~~July 2018~~
 ### [Test-Driven Development Codecamp Continued](https://www.meetup.com/Laravel-Cebu/events/251512968/)
 
@@ -26,9 +29,6 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 * Saturday, July 28
 * 8AM - 5PM
 * Coding Avenue
-
-----------
-## Past Meetups
 
 ## ~~June 2018~~
 ### [Test-Driven Development Codecamp](https://www.meetup.com/Laravel-Cebu/events/250739315/)
