@@ -5,7 +5,18 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 
 ## Upcoming Meetups
 
-## July 2018
+## Sept 2018
+### [Building SaaS Application with Laravel](https://www.meetup.com/Laravel-Cebu/events/250739400/)
+
+* Topic: Building SaaS Application with Laravel, Special topic to be announced on meetup event day
+* Speakers: Bertrand Kintanar
+* Partners: LegalMatch Philippines
+* Sponsors: VENUE: LegalMatch Philippines
+* Saturday, September 29
+* 1PM - 5PM
+* LegalMatch Philippines
+
+## ~~July 2018~~
 ### [Test-Driven Development Codecamp Continued](https://www.meetup.com/Laravel-Cebu/events/251512968/)
 
 * Topic: Summary About TDD, Review of the activity we have done (Ticketbeast), Limiting ticket sales, Coding Challenge
