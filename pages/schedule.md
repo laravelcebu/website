@@ -6,7 +6,7 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 ## Upcoming Meetups
 
 ## Oct 2018
-### TBD
+### [Getting started with GraphQL in Laravel](https://www.meetup.com/Laravel-Cebu/events/250742856/)
 
 * Topic: GraphQL Introduction with Laravel
 * Speakers: Dorell James Galang
