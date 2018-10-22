@@ -8,13 +8,13 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 ## Oct 2018
 ### TBD
 
-* Topic: TBD
-* Speakers: TBD
-* Partners: TBD
-* Sponsors: TBD
-* TBD
-* TBD
-* TBD
+* Topic: GraphQL Introduction with Laravel
+* Speakers: Dorell James Galang
+* Partners: The Company Cebu
+* Sponsors: VENUE: The Company Cebu
+* Wednesday, October 24
+* 7PM - 10PM
+* The Company Cebu
 
 ----------
 ## Past Meetups
