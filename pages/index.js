@@ -46,9 +46,9 @@ export default class Index extends React.Component {
         <Buttons>
           <Button
             primary
-            href="https://goo.gl/GSc8Qg"
+            href="https://goo.gl/LfaYMX"
             target="_blank"
-            title="Reactiflux Discord"
+            title="Laravel Cebu Slack"
           >
             Join Us on Slack
           </Button>
