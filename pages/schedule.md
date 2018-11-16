@@ -5,7 +5,15 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 
 ## Upcoming Meetups
 
-## Oct 2018
+### [The Gathering 2018](https://www.facebook.com/events/1700902086681920/)
+* About: Annual gathering over food, drinks and social activity to 
+* Partners: Vue.js Cebu
+* Date: TBD
+* Place: TBD
+
+----------
+
+## ~~Oct 2018~~
 ### [Getting started with GraphQL in Laravel](https://www.meetup.com/Laravel-Cebu/events/250742856/)
 
 * Topic: GraphQL Introduction with Laravel
@@ -16,7 +24,6 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 * 7PM - 10PM
 * The Company Cebu
 
-----------
 ## Past Meetups
 
 ## ~~Sept 2018~~
