@@ -5,6 +5,7 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 
 ## Upcoming Meetups
 
+## Dec 2018
 ### [The Gathering 2018](https://www.facebook.com/events/1700902086681920/)
 * About: Annual gathering over food, drinks and social activity to 
 * Partners: Vue.js Cebu
