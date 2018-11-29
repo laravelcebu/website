@@ -14,6 +14,8 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 
 ----------
 
+## Past Meetups
+
 ## ~~Oct 2018~~
 ### [Getting started with GraphQL in Laravel](https://www.meetup.com/Laravel-Cebu/events/250742856/)
 
@@ -24,8 +26,6 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 * Wednesday, October 24
 * 7PM - 10PM
 * The Company Cebu
-
-## Past Meetups
 
 ## ~~Sept 2018~~
 ### [Building SaaS Application with Laravel](https://www.meetup.com/Laravel-Cebu/events/250739400/)
