@@ -5,16 +5,19 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 
 ## Upcoming Meetups
 
-## Dec 2018
+See you in year 2019 artisans. WE'll have meetups, code camps, school outreach and more...
+
+----------
+
+## Past Meetups
+
+
+## ~~Dec 2018~~
 ### [The Gathering 2018](https://www.facebook.com/events/1700902086681920/)
 * About: Annual gathering over food, drinks and social activity to have fun, relax and gather as we go through planning our next year
 * Partners: Vue.js Cebu
 * 6PM onwards
 * Butchero Dining Lahug
-
-----------
-
-## Past Meetups
 
 ## ~~Oct 2018~~
 ### [Getting started with GraphQL in Laravel](https://www.meetup.com/Laravel-Cebu/events/250742856/)
