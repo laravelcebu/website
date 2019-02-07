@@ -5,7 +5,13 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 
 ## Upcoming Meetups
 
-## Jan 2019
+
+
+----------
+
+## Past Meetups
+
+## ~~Jan 2019~~
 ### [Lighthouse GraphQL Server for Laravel](https://www.facebook.com/events/1279620582228534/)
 
 * Topic: Lighthouse GraphQL Server for Laravel
@@ -13,11 +19,6 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 * Tuesday, January 29
 * 7PM - 9PM
 * The Company Cebu
-
-----------
-
-## Past Meetups
-
 
 ## ~~Dec 2018~~
 ### [The Gathering 2018](https://www.facebook.com/events/1700902086681920/)
