@@ -5,7 +5,14 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 
 ## Upcoming Meetups
 
+## Feb 2019
+### [Laravel Codecamp CTU](https://www.facebook.com/events/371091453710097/)
 
+* Topic: Laravel Codecamp
+* Sponsors: HOST: Cebu Technological University
+* Saturday, February 23
+* 8AM - 5PM
+* CTU Main Campus
 
 ----------
 
