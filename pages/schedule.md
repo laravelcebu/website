@@ -5,7 +5,13 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 
 ## Upcoming Meetups
 
-## March 2019
+TBD
+
+----------
+
+## Past Meetups
+
+## ~~March 2019~~
 ### [Laravel Codecamp SCSIT](https://www.facebook.com/events/2284250438513151/)
 
 * Topic: Laravel Codecamp
@@ -13,10 +19,6 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 * Saturday, March 9
 * 8AM - 5PM
 * SCSIT
-
-----------
-
-## Past Meetups
 
 ## ~~Feb 2019~~
 ### [Laravel Codecamp CTU](https://www.facebook.com/events/371091453710097/)
