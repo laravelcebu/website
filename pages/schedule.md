@@ -9,6 +9,7 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 ### [Two Important Disciplines For A Future Proof Laravel Project](https://www.facebook.com/events/376010406572597/)
 
 * Topic: Two Important Disciplines For A Future Proof Laravel Project
+* Speakers: Raymund Enso
 * Sponsors: VENUE: LegalMatch Philippines
 * Saturday, April 27
 * 1PM - 4PM
