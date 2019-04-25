@@ -15,11 +15,11 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 * 1PM - 4PM
 * LegalMatch Philippines
 
-### [Laravel Codecamp SCSIT](https://www.facebook.com/events/417057349096291/)
+### [Laravel Codecamp USC](https://www.facebook.com/events/417057349096291/)
 
 * Topic: Laravel Codecamp Exclusive for USC Students
 * Partner: DevCon Cebu
-* Saturday, April 13
+* Saturday, May 11
 * 8AM - 5PM
 * University of San Carlos - Talamban Campus
 
