@@ -5,7 +5,13 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 
 ## Upcoming Meetups
 
-## June 2019
+Stay tuned for more events. Thank you! :)
+
+----------
+
+## Past Meetups
+
+## ~~June 2019~~
 ### [Laravel Codecamp USC](https://www.facebook.com/events/417057349096291/)
 
 * Topic: Laravel Codecamp Exclusive for USC Students
@@ -13,10 +19,6 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 * Saturday, June 22
 * 8AM - 5PM
 * University of San Carlos - Talamban Campus
-
-----------
-
-## Past Meetups
 
 ## ~~Apr 2019~~
 ### [Two Important Disciplines For A Future Proof Laravel Project](https://www.facebook.com/events/376010406572597/)
