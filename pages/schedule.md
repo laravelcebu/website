@@ -5,7 +5,14 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 
 ## Upcoming Meetups
 
-Stay tuned for more events. Thank you! :)
+## June 2020
+### [Laravel Eloquent Performance](https://www.facebook.com/events/755377331668643/)
+
+* Topic: Laravel Eloquent Performance
+* Speakers: Raymund Enso
+* Saturday, June 20
+* 8PM - 9PM
+* Webinar - Online Event
 
 ----------
 
@@ -15,6 +22,7 @@ Stay tuned for more events. Thank you! :)
 ### [Laravel Codecamp USC](https://www.facebook.com/events/417057349096291/)
 
 * Topic: Laravel Codecamp Exclusive for USC Students
+* Speakers: Raymund Enso
 * Partner: DevCon Cebu
 * Saturday, June 22
 * 8AM - 5PM
