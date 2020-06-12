@@ -9,7 +9,7 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 ### [Laravel Eloquent Performance](https://www.facebook.com/events/755377331668643/)
 
 * Topic: Laravel Eloquent Performance
-* Speakers: Raymund Enso
+* Speakers: Harlequin Doyon
 * Saturday, June 20
 * 8PM - 9PM
 * Webinar - Online Event
