@@ -7,7 +7,7 @@
     "axios": "^0.15.2",
     "front-matter": "^2.0.7",
     "gatsby": "^0.12.6",
-    "highlight.js": "^9.6.0",
+    "highlight.js": "^10.4.1",
     "history": "^2.0.2",
     "js-yaml": "^3.6.0",
     "markdown-it": "^7.0.1",
