@@ -3,9 +3,9 @@ title: Meetup Schedule
 ---
 We organize regular meetups (usually hoping for once per month) with Laravel Cebu organizers and other volunteers in the community. These meetups are hosted by our awesome event hosts and sponsors. These usually take place on weekends. If you want to hear from someone specific in the community or suggest topics to discuss, let us know by messaging us via [Facebook Page](https://facebook.com/laravelcebu) or ping an organizer in the [#meetup](https://laravel-cebu.slack.com/messages/meetup/) channel on Slack.
 
-## Upcoming Meetups
+## Past Meetups
 
-## June 2020
+## ~~June 2020~~
 ### [Laravel Eloquent Performance](https://www.facebook.com/events/755377331668643/)
 
 * Topic: Laravel Eloquent Performance
@@ -13,10 +13,6 @@ We organize regular meetups (usually hoping for once per month) with Laravel Ceb
 * Saturday, June 20
 * 8PM - 9PM
 * Webinar - Online Event
-
-----------
-
-## Past Meetups
 
 ## ~~June 2019~~
 ### [Laravel Codecamp USC](https://www.facebook.com/events/417057349096291/)
